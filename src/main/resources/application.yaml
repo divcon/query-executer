@@ -1,0 +1,16 @@
+directory:
+  base: "/Users/sungjinpark/project/query-executer/sampleSql"
+  maxFileSize: 2
+  filePollingSec: 5
+time:
+  startTime: "2024.05.04T23:50"
+  minuteInterval: 10
+query:
+  batchSize: 5
+output:
+  outputDir: "/Users/sungjinpark/project/query-executer/sampleSql"
+  name: "result.txt"
+jdbc:
+  url: "jdbc:mysql://localhost:3306/test_db"
+  username: root
+  password: cjstk1

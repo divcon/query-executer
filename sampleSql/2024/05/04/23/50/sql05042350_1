@@ -1,0 +1,10 @@
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (1, 'Smith', 'John', '123 Main St', 'New York');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (2, 'Johnson', 'Jane', '456 Elm St', 'Los Angeles');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (3, 'Williams', 'Michael', '789 Oak St', 'Chicago');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (4, 'Brown', 'Emily', '101 Pine St', 'Houston');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (5, 'Jones', 'Sarah', '202 Maple St', 'Phoenix');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (6, 'Garcia', 'David', '303 Cedar St', 'Philadelphia');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (7, 'Miller', 'Anna', '404 Birch St', 'San Antonio');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (8, 'Davis', 'James', '505 Walnut St', 'San Diego');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (9, 'Rodriguez', 'Jessica', '606 Poplar St', 'Dallas');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (10, 'Martinez', 'Robert', '707 Ash St', 'San Jose');

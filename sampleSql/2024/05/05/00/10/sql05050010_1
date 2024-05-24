@@ -1,0 +1,16 @@
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (45, 'Hall', 'Martha', '4242 Fir St', 'Oakland');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (46, 'Rivera', 'Debra', '4343 Redwood St', 'Minneapolis');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (47, 'Campbell', 'Amanda', '4444 Sequoia St', 'Tulsa');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (48, 'Mitchell', 'Stephanie', '4545 Cedar St', 'Wichita');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (49, 'Carter', 'Carolyn', '4646 Maple St', 'New Orleans');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (50, 'Roberts', 'Christine', '4747 Pine St', 'Arlington');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (51, 'Gomez', 'Marie', '4848 Oak St', 'Cleveland');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (52, 'Phillips', 'Janet', '4949 Birch St', 'Bakersfield');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (53, 'Evans', 'Frances', '5050 Elm St', 'Tampa');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (54, 'Turner', 'Alice', '5151 Poplar St', 'Aurora');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (55, 'Diaz', 'Joyce', '5252 Ash St', 'Honolulu');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (56, 'Parker', 'Julie', '5353 Fir St', 'Anaheim');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (57, 'Cruz', 'Heather', '5454 Redwood St', 'Santa Ana');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (58, 'Edwards', 'Teresa', '5555 Sequoia St', 'St. Louis');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (59, 'Collins', 'Doris', '5656 Cedar St', 'Riverside');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (60, 'Reyes', 'Gloria', '5757 Maple St', 'Corpus Christi');

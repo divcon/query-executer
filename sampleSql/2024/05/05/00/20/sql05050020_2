@@ -1,0 +1,8 @@
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (81, 'Watson', 'Lori', '7878 Cedar St', 'Lubbock');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (82, 'Brooks', 'Rachel', '7979 Maple St', 'Garland');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (83, 'Chavez', 'Marilyn', '8080 Pine St', 'Glendale');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (84, 'Wood', 'Andrea', '8181 Oak St', 'Hialeah');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (85, 'James', 'Kathryn', '8282 Birch St', 'Reno');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (86, 'Bennett', 'Louise', '8383 Elm St', 'Chesapeake');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (87, 'Gray', 'Sara', '8484 Poplar St', 'Scottsdale');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (88, 'Mendoza', 'Anne', '8585 Ash St', 'North Las Vegas');

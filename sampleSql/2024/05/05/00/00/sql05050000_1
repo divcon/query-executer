@@ -1,0 +1,16 @@
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (20, 'Martin', 'Dorothy', '1717 Elm St', 'Washington');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (21, 'Lee', 'Lisa', '1818 Poplar St', 'Boston');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (22, 'Perez', 'Nancy', '1919 Ash St', 'El Paso');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (23, 'Thompson', 'Karen', '2020 Fir St', 'Nashville');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (24, 'White', 'Betty', '2121 Redwood St', 'Detroit');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (25, 'Harris', 'Helen', '2222 Sequoia St', 'Oklahoma City');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (26, 'Sanchez', 'Sandra', '2323 Cedar St', 'Portland');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (27, 'Clark', 'Donna', '2424 Maple St', 'Las Vegas');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (28, 'Ramirez', 'Ruth', '2525 Pine St', 'Memphis');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (29, 'Lewis', 'Sharon', '2626 Oak St', 'Louisville');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (30, 'Robinson', 'Michelle', '2727 Birch St', 'Baltimore');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (31, 'Walker', 'Laura', '2828 Elm St', 'Milwaukee');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (32, 'Young', 'Sarah', '2929 Poplar St', 'Albuquerque');
+
+
+

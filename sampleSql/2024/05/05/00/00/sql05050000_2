@@ -1,0 +1,12 @@
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (33, 'Allen', 'Kimberly', '3030 Ash St', 'Tucson');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (34, 'King', 'Deborah', '3131 Fir St', 'Fresno');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (35, 'Wright', 'Jessica', '3232 Redwood St', 'Sacramento');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (36, 'Scott', 'Shirley', '3333 Sequoia St', 'Kansas City');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (37, 'Torres', 'Cynthia', '3434 Cedar St', 'Long Beach');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (38, 'Nguyen', 'Angela', '3535 Maple St', 'Mesa');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (39, 'Hill', 'Brenda', '3636 Pine St', 'Atlanta');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (40, 'Flores', 'Amy', '3737 Oak St', 'Colorado Springs');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (41, 'Green', 'Anna', '3838 Birch St', 'Virginia Beach');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (42, 'Adams', 'Rebecca', '3939 Elm St', 'Raleigh');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (43, 'Nelson', 'Kathleen', '4040 Poplar St', 'Omaha');
+INSERT INTO Persons (PersonID, LastName, FirstName, Address, City) VALUES (44, 'Baker', 'Pamela', '4141 Ash St', 'Miami');
